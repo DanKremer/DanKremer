@@ -20,10 +20,10 @@ BLOG_AUTHOR = "Dan J Kremer"  # (translatable)
 BLOG_TITLE = "Dan J Kremer"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://example.com/"
+SITE_URL = "https://dankremer.github.io/DanKremer/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://example.com/"
+# BASE_URL = "https://dankremer.github.io/DanKremer/"
 BLOG_EMAIL = "dan.j.kremer@gmail.com"
 BLOG_DESCRIPTION = "A place for Dan and his Things"  # (translatable)
 
