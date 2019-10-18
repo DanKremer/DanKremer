@@ -6,10 +6,6 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://dankremer.github.io/DanKremer/</loc>
-  <lastmod>2019-10-18T03:30:00Z</lastmod>
- </url>
- <url>
   <loc>https://dankremer.github.io/DanKremer/2019/</loc>
   <lastmod>2019-10-18T03:29:00Z</lastmod>
  </url>
