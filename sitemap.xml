@@ -7,42 +7,42 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://dankremer.github.io/DanKremer/2019/</loc>
-  <lastmod>2019-10-18T03:29:00Z</lastmod>
+  <lastmod>2019-10-19T04:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://dankremer.github.io/DanKremer/archive.html</loc>
-  <lastmod>2019-10-18T03:43:00Z</lastmod>
- </url>
- <url>
-  <loc>https://dankremer.github.io/DanKremer/blog/</loc>
-  <lastmod>2019-10-18T03:29:00Z</lastmod>
- </url>
- <url>
-  <loc>https://dankremer.github.io/DanKremer/blog/pysolar-and-analemmas/</loc>
-  <lastmod>2019-10-18T03:29:00Z</lastmod>
+  <lastmod>2019-10-19T04:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://dankremer.github.io/DanKremer/categories/</loc>
-  <lastmod>2019-10-18T03:29:00Z</lastmod>
+  <lastmod>2019-10-19T04:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://dankremer.github.io/DanKremer/categories/jupyter/</loc>
-  <lastmod>2019-10-18T03:29:00Z</lastmod>
+  <lastmod>2019-10-19T04:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://dankremer.github.io/DanKremer/categories/pysolar/</loc>
-  <lastmod>2019-10-18T03:29:00Z</lastmod>
+  <lastmod>2019-10-19T04:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://dankremer.github.io/DanKremer/categories/python/</loc>
-  <lastmod>2019-10-18T03:29:00Z</lastmod>
+  <lastmod>2019-10-19T04:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://dankremer.github.io/DanKremer/galleries/</loc>
-  <lastmod>2019-10-18T03:29:00Z</lastmod>
+  <lastmod>2019-10-19T04:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://dankremer.github.io/DanKremer/listings/</loc>
-  <lastmod>2019-10-18T03:29:00Z</lastmod>
+  <lastmod>2019-10-19T04:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dankremer.github.io/DanKremer/posts/</loc>
+  <lastmod>2019-10-19T04:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dankremer.github.io/DanKremer/posts/pysolar-and-analemmas/</loc>
+  <lastmod>2019-10-19T04:07:00Z</lastmod>
  </url>
 </urlset>
