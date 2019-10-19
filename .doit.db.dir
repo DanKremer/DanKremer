@@ -36,7 +36,7 @@
 'render_posts:timeline_changes', (33280, 109)
 'sitemap:output/sitemapindex.xml', (33792, 255)
 'copy_assets:output/assets/css/rst.css', (34304, 417)
-'render_taxonomies:output/archive.html', (109568, 2606)
+'render_taxonomies:output/archive.html', (151040, 3170)
 'sitemap', (37376, 56)
 'copy_assets:output/assets/js/jquery.min.js', (37888, 442)
 'copy_assets:output/assets/js/html5.js', (38400, 419)
