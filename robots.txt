@@ -1,0 +1,4 @@
+Sitemap: https://dankremer.github.io/DanKremer/sitemapindex.xml
+
+User-Agent: *
+Host: dankremer.github.io
