@@ -6,15 +6,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://example.com/galleries/rss.xml</loc>
-  <lastmod>2019-09-11T03:54:00Z</lastmod>
+  <loc>https://dankremer.github.io/DanKremer/categories/jupyter.xml</loc>
+  <lastmod>2019-10-18T03:29:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/rss.xml</loc>
-  <lastmod>2019-09-11T03:54:00Z</lastmod>
+  <loc>https://dankremer.github.io/DanKremer/categories/pysolar.xml</loc>
+  <lastmod>2019-10-18T03:29:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/sitemap.xml</loc>
-  <lastmod>2019-09-11T03:54:00Z</lastmod>
+  <loc>https://dankremer.github.io/DanKremer/categories/python.xml</loc>
+  <lastmod>2019-10-18T03:29:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://dankremer.github.io/DanKremer/galleries/rss.xml</loc>
+  <lastmod>2019-10-18T03:43:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://dankremer.github.io/DanKremer/rss.xml</loc>
+  <lastmod>2019-10-18T03:29:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://dankremer.github.io/DanKremer/sitemap.xml</loc>
+  <lastmod>2019-10-18T03:48:00Z</lastmod>
  </sitemap>
 </sitemapindex>
