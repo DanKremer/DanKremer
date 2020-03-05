@@ -960,6 +960,8 @@ RSS_COPYRIGHT = 'Contents © {date} <a href="mailto:{email}">{author}</a> {licen
 RSS_COPYRIGHT_PLAIN = 'Contents © {date} {author} {license}'
 RSS_COPYRIGHT_FORMATS = CONTENT_FOOTER_FORMATS
 
+
+
 # To use comments, you can choose between different third party comment
 # systems.  The following comment systems are supported by Nikola:
 #   disqus, facebook, intensedebate, isso, muut, commento
