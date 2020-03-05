@@ -13,7 +13,7 @@
 'render_taxonomies', (18432, 56)
 'copy_assets:output/assets/js/justified-layout.min.js', (18944, 450)
 'copy_assets', (19456, 56)
-'sitemap:output/sitemap.xml', (141824, 2510)
+'sitemap:output/sitemap.xml', (141824, 2506)
 'copy_assets:output/assets/js/html5shiv-printshiv.min.js', (20992, 455)
 'create_bundles:output/assets/css/all-nocdn.css', (21504, 1041)
 'copy_assets:output/assets/js/gallery.min.js', (23040, 430)
