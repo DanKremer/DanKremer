@@ -7,19 +7,27 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://dankremer.github.io/DanKremer/</loc>
-  <lastmod>2020-03-05T04:03:00Z</lastmod>
+  <lastmod>2020-03-15T04:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://dankremer.github.io/DanKremer/archive.html</loc>
-  <lastmod>2020-03-12T04:34:00Z</lastmod>
+  <lastmod>2020-03-15T21:50:00Z</lastmod>
  </url>
  <url>
   <loc>https://dankremer.github.io/DanKremer/categories/</loc>
-  <lastmod>2019-10-19T04:17:00Z</lastmod>
+  <lastmod>2020-03-15T21:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://dankremer.github.io/DanKremer/categories/jupyter/</loc>
   <lastmod>2019-10-19T04:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dankremer.github.io/DanKremer/categories/mathjax/</loc>
+  <lastmod>2020-03-15T21:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dankremer.github.io/DanKremer/categories/ode/</loc>
+  <lastmod>2020-03-15T04:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://dankremer.github.io/DanKremer/categories/pysolar/</loc>
@@ -28,6 +36,14 @@
  <url>
   <loc>https://dankremer.github.io/DanKremer/categories/python/</loc>
   <lastmod>2019-10-19T04:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dankremer.github.io/DanKremer/categories/scipy/</loc>
+  <lastmod>2020-03-15T04:20:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dankremer.github.io/DanKremer/categories/vibration/</loc>
+  <lastmod>2020-03-15T04:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://dankremer.github.io/DanKremer/galleries/</loc>
@@ -40,6 +56,10 @@
  <url>
   <loc>https://dankremer.github.io/DanKremer/posts/googleb551ce606423ae54/</loc>
   <lastmod>2020-03-05T04:01:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dankremer.github.io/DanKremer/posts/numerical-ode-with-scipy/</loc>
+  <lastmod>2020-03-15T04:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://dankremer.github.io/DanKremer/posts/pysolar-and-analemmas/</loc>

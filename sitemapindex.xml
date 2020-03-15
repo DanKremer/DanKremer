@@ -10,23 +10,39 @@
   <lastmod>2019-10-19T15:15:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://dankremer.github.io/DanKremer/categories/mathjax.xml</loc>
+  <lastmod>2020-03-15T21:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://dankremer.github.io/DanKremer/categories/ode.xml</loc>
+  <lastmod>2020-03-15T21:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://dankremer.github.io/DanKremer/categories/pysolar.xml</loc>
   <lastmod>2019-10-19T15:15:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://dankremer.github.io/DanKremer/categories/python.xml</loc>
-  <lastmod>2019-10-19T15:15:00Z</lastmod>
+  <lastmod>2020-03-15T21:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://dankremer.github.io/DanKremer/categories/scipy.xml</loc>
+  <lastmod>2020-03-15T21:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://dankremer.github.io/DanKremer/categories/vibration.xml</loc>
+  <lastmod>2020-03-15T21:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://dankremer.github.io/DanKremer/galleries/rss.xml</loc>
-  <lastmod>2020-03-05T03:38:00Z</lastmod>
+  <lastmod>2020-03-15T21:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://dankremer.github.io/DanKremer/rss.xml</loc>
-  <lastmod>2020-03-12T04:34:00Z</lastmod>
+  <lastmod>2020-03-15T21:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://dankremer.github.io/DanKremer/sitemap.xml</loc>
-  <lastmod>2020-03-12T04:34:00Z</lastmod>
+  <lastmod>2020-03-15T21:50:00Z</lastmod>
  </sitemap>
 </sitemapindex>
