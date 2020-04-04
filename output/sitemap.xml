@@ -11,7 +11,7 @@
  </url>
  <url>
   <loc>https://dankremer.github.io/DanKremer/archive.html</loc>
-  <lastmod>2020-03-15T21:50:00Z</lastmod>
+  <lastmod>2020-04-04T02:04:00Z</lastmod>
  </url>
  <url>
   <loc>https://dankremer.github.io/DanKremer/categories/</loc>
@@ -64,5 +64,9 @@
  <url>
   <loc>https://dankremer.github.io/DanKremer/posts/pysolar-and-analemmas/</loc>
   <lastmod>2019-10-19T04:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dankremer.github.io/DanKremer/posts/solve-vibration-ode-using-scipy-solve_ivp/</loc>
+  <lastmod>2020-04-04T02:04:00Z</lastmod>
  </url>
 </urlset>

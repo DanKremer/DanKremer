@@ -1,0 +1,8 @@
+.. title: Solve vibration ODE using scipy solve_ivp
+.. slug: solve-vibration-ode-using-scipy-solve_ivp
+.. date: 2020-04-03 20:02:05 UTC-06:00
+.. tags: python, scipy, vibration, ODE, mathjax
+.. link: 
+.. description: Solving a simple vibration ODE using the scipy method solve_ivp
+.. type: Jupyter Notebook
+
