@@ -7,15 +7,15 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://dankremer.github.io/DanKremer/</loc>
-  <lastmod>2020-03-15T04:20:00Z</lastmod>
+  <lastmod>2020-04-26T13:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://dankremer.github.io/DanKremer/archive.html</loc>
-  <lastmod>2020-04-07T01:29:00Z</lastmod>
+  <lastmod>2020-04-26T21:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://dankremer.github.io/DanKremer/categories/</loc>
-  <lastmod>2020-03-15T21:36:00Z</lastmod>
+  <lastmod>2020-04-26T04:56:00Z</lastmod>
  </url>
  <url>
   <loc>https://dankremer.github.io/DanKremer/categories/jupyter/</loc>
@@ -30,6 +30,14 @@
   <lastmod>2020-03-15T04:20:00Z</lastmod>
  </url>
  <url>
+  <loc>https://dankremer.github.io/DanKremer/categories/pandas/</loc>
+  <lastmod>2020-04-26T04:56:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dankremer.github.io/DanKremer/categories/pdgrouper/</loc>
+  <lastmod>2020-04-26T04:56:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://dankremer.github.io/DanKremer/categories/pysolar/</loc>
   <lastmod>2019-10-19T04:17:00Z</lastmod>
  </url>
@@ -40,6 +48,10 @@
  <url>
   <loc>https://dankremer.github.io/DanKremer/categories/scipy/</loc>
   <lastmod>2020-03-15T04:20:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dankremer.github.io/DanKremer/categories/timeseries-analysis/</loc>
+  <lastmod>2020-04-26T04:56:00Z</lastmod>
  </url>
  <url>
   <loc>https://dankremer.github.io/DanKremer/categories/vibration/</loc>
@@ -62,7 +74,15 @@
   <lastmod>2019-10-19T04:17:00Z</lastmod>
  </url>
  <url>
+  <loc>https://dankremer.github.io/DanKremer/posts/slug/</loc>
+  <lastmod>2020-04-11T20:23:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://dankremer.github.io/DanKremer/posts/solve-vibration-ode-using-scipy-solve_ivp/</loc>
   <lastmod>2020-04-04T02:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dankremer.github.io/DanKremer/posts/timeseries-analyis-with-pandas-pdgrouper/</loc>
+  <lastmod>2020-04-26T04:56:00Z</lastmod>
  </url>
 </urlset>
