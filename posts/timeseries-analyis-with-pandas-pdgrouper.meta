@@ -1,0 +1,8 @@
+.. title: Timeseries analyis with Pandas pd.Grouper
+.. slug: timeseries-analyis-with-pandas-pdgrouper
+.. date: 2020-04-25 22:52:45 UTC-06:00
+.. tags: Pandas, pd.Grouper, timeseries analysis, jupyter, python
+.. link: 
+.. description: A notebook exploring how to do timeseries analysis with python, pandas, and the pd.Grouper class.
+.. type: Jupyter Notebook
+
